@@ -1,0 +1,42 @@
+{
+  "id": "I927CB395",
+  "title": {
+    "BO": "བཞི་བརྒྱ་པའི་རབ་བྱེད་བཅུ་གསུམ་པའི་འགྲེལ་བ།"
+  },
+  "author": {
+    "BO": "སློབ་དཔོན་འཕགས་པ་ལྷ།"
+  },
+  "imported": "2025-01-10T11:51:49.062955",
+  "source": null,
+  "toolkit_version": "0.0.1",
+  "parser": "GoogleDocTranslationParser",
+  "initial_creation_type": "google_docx",
+  "language": "bo",
+  "source_metadata": {
+    "title_short": {
+      "BO": "བཞི་བརྒྱ་པའི་རབ་བྱེད་བཅུ་གསུམ་པའི་འགྲེལ་བ།"
+    },
+    "title_long_clean": {
+      "BO": "བྱང་ཆུབ་སེམས་དཔའི་རྣལ་འབྱོར་སྤྱོད་པ་བཞི་བརྒྱ་པ་ལས། དབང་པོ་དང་དོན་དགག་པ་བསྒོམ་པ་བསྟན་པ་ཞེས་བྱ་བ་སྟེ། རབ་ཏུ་བྱེད་པ་བཅུ་གསུམ་པའི་འགྲེལ་བ།"
+    },
+    "is_version_of": {
+      "BO": "བཞི་བརྒྱ་པའི་རབ་བྱེད་བཅུ་གསུམ་པའི་འགྲེལ་བ།"
+    }
+  },
+  "bases": [
+    {
+      "188D": {
+        "source_metadata": {
+          "total_segments": 1897
+        },
+        "base_file": "188D.txt"
+      }
+    }
+  ],
+  "copyright": {
+    "status": "Unknown",
+    "notice": "",
+    "info_url": null
+  },
+  "licence": "Unknown"
+}
